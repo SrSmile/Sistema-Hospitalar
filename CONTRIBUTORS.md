@@ -1,4 +1,4 @@
-# Contribuidores do projeto Sistema-Hospitalar
+# Colaboradores do projeto Sistema-Hospitalar
 ## Product Owner.
 O grupo
 
